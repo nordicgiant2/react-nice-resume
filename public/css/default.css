@@ -425,10 +425,10 @@ dd { margin: 0 0 0 20px; }
 	-ms-transition: all 200ms ease-in-out;
 	transition: all 200ms ease-in-out;
 
-   -moz-border-radius: 3px;
-   -webkit-border-radius: 3px;
-   -khtml-border-radius: 3px;
-	border-radius: 3px;
+   -moz-border-radius: 0px;
+   -webkit-border-radius: 0px;
+   -khtml-border-radius: 0px;
+	border-radius: 0px;
 }
 .pagination .page-numbers:hover {
    background: #838A91;
@@ -481,10 +481,10 @@ input[type="button"] {
 	-ms-transition: all .2s ease-in-out;
 	transition: all .2s ease-in-out;
 
-   -moz-border-radius: 3px;
-   -webkit-border-radius: 3px;
-   -khtml-border-radius: 3px;
-   border-radius: 3px;
+   -moz-border-radius: 0px;
+   -webkit-border-radius: 0px;
+   -khtml-border-radius: 0px;
+   border-radius: 0px;
 }
 
 .button:hover,

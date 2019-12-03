@@ -93,7 +93,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #0762f9; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -115,7 +115,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #0762f9; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -185,14 +185,14 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #000524;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #0762f9; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -201,7 +201,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #ccc;
 }
 #about .profile-pic {
    position: relative;
@@ -240,7 +240,7 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #0762f9; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -249,7 +249,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #0762f9;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -296,9 +296,9 @@ ul#nav li.current a { color: #F06000; }
 .bars li {
    position: relative;
   	margin-bottom: 60px;
-  	background: #ccc;
+  	background: #333;
   	height: 42px;
-  	border-radius: 3px;
+  	border-radius: 0px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
@@ -320,7 +320,7 @@ ul#nav li.current a { color: #F06000; }
    display: inline-block;
   	height: 42px;
    line-height: 42px;
-   border-radius: 3px 0 0 3px;
+   border-radius: 0px;
 }
 /*
 .git {
@@ -799,7 +799,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #0762f9; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -860,7 +860,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #0762f9;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -871,7 +871,7 @@ call-to-action .button {
    cursor: pointer;
    height: auto;
    display: inline-block;
-	border-radius: 3px;
+	border-radius: 0px;
    margin-left: 26%;
 }
 #contact button.submit:hover {
@@ -879,7 +879,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #0762f9;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -891,7 +891,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #0762f9; }
 
 #message-warning i,
 #message-success i {

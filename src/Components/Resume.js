@@ -1,6 +1,16 @@
 import React, { Component } from 'react';
 
 class Resume extends Component {
+
+  getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+  
   render() {
 
     if(this.props.data){
@@ -16,9 +26,14 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
+
+      var skills = this.props.data.skills.map((skills)=>{
         var className = 'bar-expand '+skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{width:skills.level}}className={className}></span><em>{skills.name}</em></li>
+        return (
+          <li key={skills.name}>
+            <span style={{width:skills.level, backgroundColor:this.getRandomColor()}}className={className}></span><em>{skills.name}</em>
+          </li>
+        )
       })
     }
 
