@@ -60,14 +60,12 @@ header .banner-text h1 {
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #ddd;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
@@ -85,7 +83,6 @@ header .social {
    margin: 24px 0;
    padding: 0;
    font-size: 30px;
-   text-shadow: 0px 1px 2px rgba(0, 0, 0, .8);
 }
 header .social li {
    display: inline-block;
@@ -846,7 +843,7 @@ call-to-action .button {
 #contact input,
 #contact textarea,
 #contact select {
-   padding: 18px 20px;
+   padding: 10px 20px;
 	color: #eee;
 	background: #373233;
 	margin-bottom: 42px;
