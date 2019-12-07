@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #fe6928; }
 
 
 /* ------------------------------------------------------------------ */
@@ -1004,3 +1004,21 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+
+.social .btn:first-child{
+   margin-right: 30px;
+}
+.social .btn{
+   padding-left: 30px;
+   padding-right: 30px; 
+}
+.social .btn i{
+   margin-right: 15px;
+}
+.project-btn{
+   background-color: #1abc9c !important;
+}
+.github-btn{
+   background-color: #34495e !important;
+}
