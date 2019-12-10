@@ -5,42 +5,33 @@
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "marcus@mtss.dev",
+    "phone": "+6011-56272788",
+    "github":"https://github.com/marcustan-dev",
+    "project":"https://github.com/marcustan-dev/portfolio",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Jalan Setia Gemilang U13/45b",
+      "city":"Shah Alam",
+      "state":"Selangor",
+      "zip": "40170",
+      "country": "Malaysia"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://mtss.dev",
+    "resumedownload":"https://cvws.icloud-content.com/B/AV5JpHi57091aPWY2JFQ5V9afwoeAZTOL3zUeeGCUYPaIZawqwtI5dL4/PROFILE_Marcus_stkofw2019.pdf?o=Aiy97vG2WfxvBf394e2cCB24TwiN6byJvmhDgs0pQoo2&v=1&x=3&a=CAogRnFhm5XQGEFLnmO6o94JV3QqjXCqAZ5WwuG3ZMu9vjUSHRCWkvn97i0Ytomw_u4tIgEAUgRafwoeWgRI5dL4&e=1575981155&k=uM-1wtiRQj-Bz6nJvOsEyg&fl=&r=594d4c6f-4260-4cf5-aa6d-2572360c6813-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=58&s=qW4RocligSRctRADaeWibl9KWtg&cd=i",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/marcustanzw/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/marcustzw",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/marcustan-dev",
         "className":"fa fa-github"
       }
     ]
