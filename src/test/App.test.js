@@ -2,6 +2,7 @@ import React from 'react';
 import { mount, shallow } from 'enzyme'; 
 import App from '../App';
 import $ from 'jquery';
+import 'regenerator-runtime/runtime';
 
 describe('App.js tests', () => {
   it('renders without crashing', () => {
