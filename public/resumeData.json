@@ -1,13 +1,14 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Samuel.oGun",
+    "description":"I am a Full Developer with a mind for product. I enjoy taking ideas from  concept to production.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "contactmessage":"Dont be shy, reachout!!! and lets create  something amazing.",
+    "email": "samrey2018@gmail.com",
+    "phone": "4845380448",
+    "github":" https://github.com/EPIC448 ",
+    "blog":  "http://techuture.com/ ",  
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "street":"(Your Street)",
@@ -19,28 +20,28 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
+        "name":"Remove-facebook",
         "url":"https://github.com/nordicgiant2/react-nice-resume",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
+        "name":"remove-twitter",
         "url":"http://twitter.com",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/samuel48/ ",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
+        "name":" remove-instagram",
         "url":"http://instagram.com/tbaker_x",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/EPIC448",
         "className":"fa fa-github"
       }
     ]
@@ -49,55 +50,68 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Flatiron School",
+        "degree":"Full Stack engineering",
+        "graduated":"Jun 2020",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"Udemy",
+        "degree":"Product Managment /Algorithem & Data Structure",
+        "graduated":"May 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Lock Haven Univerity",
+        "degree":"B.S Psychology(Research)/ Community Health",
+        "graduated":"Feb 2014",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
+      
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Monday.Com Hackerton",
+        "title":"Captain ",
+        "years":"Nov 2020",
+        "description":"Lead the creation of TASKY. An app that empower you to create personal task your way all within the Monday.com platform "
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"DevPost PPE Sustainability Kit",
+        "title":"Captain",
+        "years":"July 2020",
+        "description":"Created Hygea. A subscription based PPE delivery system that provides users fresh  protective gear while handling and safely dispoing the used  kits"
+      },
+      {
+        "company":"JP Morgan Chase & Co",
+        "title":"Intern",
+        "years":"may 2020",
+        "description":"Implemented Perspective open source code to interface with stock price data, while setting up systems to analysis those data"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JavaScript",
+        "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Ruby",
+        "level":"79%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"70%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"Redux",
+        "level":"70%"
       },
       {
-        "name":"Swift",
+        "name":"Jest",
         "level":"50%"
       },
       {
