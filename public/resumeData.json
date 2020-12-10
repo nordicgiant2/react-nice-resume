@@ -104,7 +104,7 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"60%"
       },
       {
         "name":"Redux",
@@ -115,7 +115,7 @@
         "level":"50%"
       },
       {
-        "name":"JAVA",
+        "name":"Awesome",
         "level":"80%"
       }
     ]
@@ -123,19 +123,19 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
+        "title":"Monday.Com Platform",
         "category":"My Travel Blog for my post-university travels",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
+        "title":"PPE Sustainability",
         "category":"(offline now) A fighting gear company I started",
         "image":"fury-fighting-gear.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
+        "title":"Blog_Post App",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
