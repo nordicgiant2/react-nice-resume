@@ -123,35 +123,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Monday.Com Platform",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"TASKY",
+        "category":"An app the empowers you to create your personal task your way all within Monday.com platform",
+        "image":"TASKY.png",
+        "url":"https://devpost.com/software/tasky-b2a0ku?ref_content=user-portfolio&ref_feature=in_progress"
       },
       {
         "title":"PPE Sustainability",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"Introducing Hygea. A Subscription based PPE delivery system that provides users fresh protective gear while handling and safely disposing of the used, all in one service",
+        "image":"iu.png",
+        "url":"https://devpost.com/software/hygea"
       },
       {
         "title":"Blog_Post App",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "category":"An app that enhance content creators ablility share their thoughts and ideas",
+        "image":"blogpost_pic.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Techuture (what Im thinking)",
+        "category":"Blog Platform for the non-Techi individuals of the future",
+        "image":"techuture.jpg",
+        "url":"http://techuture.com"
       }
+      
     ]
   }
 }
