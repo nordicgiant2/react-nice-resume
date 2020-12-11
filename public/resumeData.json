@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Samuel.oGun",
-    "description":"I am a Full Developer with a mind for product. I enjoy taking ideas from  concept to production.",
+    "description":"I am a Full Stack Developer with a mind for Product Management. I enjoy taking ideas from  concept to production.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Curiosity describes my journey be it fitness, coding, or running an e-commerce company. My background spans Psychology, Health, Products Management, and Web Development. My experiences have granted me the opportunity to take several projects and apps from concepts to launch. I look forward to working together.",
     "contactmessage":"Dont be shy, reachout!!! and lets create  something amazing.",
     "email": "samrey2018@gmail.com",
     "phone": "4845380448",
@@ -16,8 +16,8 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://techuture.com/",
+    "resumedownload":"https://drive.google.com/file/d/1DSPCPjiVSzETkdxn7EehGaQMiJchfzkV/view?usp=sharing",
     "social":[
       {
         "name":"Remove-facebook",
@@ -138,7 +138,7 @@
         "title":"Blog_Post App",
         "category":"An app that enhance content creators ablility share their thoughts and ideas",
         "image":"blogpost_pic.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://www.youtube.com/watch?v=IqLtybGNwGM&feature=youtu.be"
       },
       {
         "title":"Techuture (what Im thinking)",

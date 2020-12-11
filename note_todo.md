@@ -2,3 +2,5 @@
 
    Need to proof read sentences +  Remove some of those components im not gonna be using.
    Change the about me section+ find a way to make it a public website
+
+   Fill in the Education section and work sections.
