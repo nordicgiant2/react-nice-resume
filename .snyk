@@ -1,0 +1,10 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - react-scripts > fsevents > node-pre-gyp > tar-pack > debug:
+        patched: '2020-12-31T00:54:25.734Z'
+    - react-scripts > webpack-dev-server > chokidar > fsevents > node-pre-gyp > tar-pack > debug:
+        patched: '2020-12-31T00:54:25.734Z'
