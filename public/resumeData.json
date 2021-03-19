@@ -51,13 +51,13 @@
       {
         "school":"University?",
         "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "graduated":"April 2017",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
         "school":"School #1 Maybe College?",
         "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "graduated":"March 2013",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
@@ -65,13 +65,13 @@
       {
         "company":"Awesome Design Studio",
         "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "years":"March 2018 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
         "company":"Super Cool Studio",
         "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "years":"March 2017 - February 2018",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
@@ -111,32 +111,74 @@
       {
         "title":"Canadian Wanderlust",
         "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
         "title":"Fury Fighting Gear",
         "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "image":"02.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Original Thai Food",
         "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "image":"03.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"04.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Smirkspace",
         "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
+        "image":"05.jpg",
         "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
       }
     ]
   }
