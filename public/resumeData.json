@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",

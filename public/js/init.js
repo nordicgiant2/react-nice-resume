@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-  var time = 360;
+  var time = 380;
   setTimeout(function() {
     $("h1.responsive-headline").fitText(1, { minFontSize: "40px", maxFontSize: "90px" });
 
