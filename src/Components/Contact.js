@@ -10,7 +10,6 @@ class Contact extends Component {
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
-    const email = this.props.data.email;
     const message = this.props.data.contactmessage;
 
     return (
@@ -114,20 +113,20 @@ class Contact extends Component {
                   <span>
                     This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean
                     sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
-                    <a href="#">http://t.co/CGIrdxIlI3</a>
+                    <a href="./">http://t.co/CGIrdxIlI3</a>
                   </span>
                   <b>
-                    <a href="#">2 Days Ago</a>
+                    <a href="./">2 Days Ago</a>
                   </b>
                 </li>
                 <li>
                   <span>
                     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
                     totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                    <a href="#">http://t.co/CGIrdxIlI3</a>
+                    <a href="./">http://t.co/CGIrdxIlI3</a>
                   </span>
                   <b>
-                    <a href="#">3 Days Ago</a>
+                    <a href="./">3 Days Ago</a>
                   </b>
                 </li>
               </ul>
