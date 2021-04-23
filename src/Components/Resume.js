@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Slide from "react-reveal";
 
 class Resume extends Component {
   getRandomColor() {
@@ -14,7 +15,7 @@ class Resume extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function(education) {
+    const education = this.props.data.education.map(function (education) {
       return (
         <div key={education.school}>
           <h3>{education.school}</h3>
@@ -27,7 +28,7 @@ class Resume extends Component {
       );
     });
 
-    const work = this.props.data.work.map(function(work) {
+    const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
           <h3>{work.company}</h3>
@@ -40,7 +41,7 @@ class Resume extends Component {
       );
     });
 
-    const skills = this.props.data.skills.map(skills => {
+    const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
@@ -55,45 +56,51 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-        <div className="row education">
-          <div className="three columns header-col">
-            <h1>
-              <span>Education</span>
-            </h1>
-          </div>
+        <Slide left duration={1300}>
+          <div className="row education">
+            <div className="three columns header-col">
+              <h1>
+                <span>Education</span>
+              </h1>
+            </div>
 
-          <div className="nine columns main-col">
-            <div className="row item">
-              <div className="twelve columns">{education}</div>
+            <div className="nine columns main-col">
+              <div className="row item">
+                <div className="twelve columns">{education}</div>
+              </div>
             </div>
           </div>
-        </div>
+        </Slide>
 
-        <div className="row work">
-          <div className="three columns header-col">
-            <h1>
-              <span>Work</span>
-            </h1>
+        <Slide left duration={1300}>
+          <div className="row work">
+            <div className="three columns header-col">
+              <h1>
+                <span>Work</span>
+              </h1>
+            </div>
+
+            <div className="nine columns main-col">{work}</div>
           </div>
+        </Slide>
 
-          <div className="nine columns main-col">{work}</div>
-        </div>
+        <Slide left duration={1300}>
+          <div className="row skill">
+            <div className="three columns header-col">
+              <h1>
+                <span>Skills</span>
+              </h1>
+            </div>
 
-        <div className="row skill">
-          <div className="three columns header-col">
-            <h1>
-              <span>Skills</span>
-            </h1>
-          </div>
+            <div className="nine columns main-col">
+              <p>{skillmessage}</p>
 
-          <div className="nine columns main-col">
-            <p>{skillmessage}</p>
-
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
+              <div className="bars">
+                <ul className="skills">{skills}</ul>
+              </div>
             </div>
           </div>
-        </div>
+        </Slide>
       </section>
     );
   }
