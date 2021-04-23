@@ -1,4 +1,4 @@
-# React Nice Resume     
+# React Nice Resume :page_with_curl:
 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
@@ -23,7 +23,7 @@ npm i
 npm start
 ```
 
-### 3. BUild
+### 3. Build
 ```shell
 npm run build
 ```
