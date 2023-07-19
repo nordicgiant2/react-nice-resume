@@ -19,27 +19,27 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com",
+        "url": "https://www.facebook.com/profile.php?id=100094539717482",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://www.facebook.com/profile.php?id=100094539717482",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com",
+        "url": "https://www.facebook.com/profile.php?id=100094539717482",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com",
+        "url": "https://www.facebook.com/profile.php?id=100094539717482",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/Chengelle91",
         "className": "fa fa-github"
       }
     ]
