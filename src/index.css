@@ -1,0 +1,6 @@
+.floating-logo {
+    position: absolute;  /* This removes the element from the document's normal flow */
+    top: 10px;          /* Adjust this to move the SVG vertically */
+    left: 10px;         /* Adjust this to move the SVG horizontally */
+    z-index: 10;        /* Ensures the SVG floats above other elements */
+  }
